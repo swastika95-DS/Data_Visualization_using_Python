@@ -5,7 +5,7 @@ Creating Hex Bin Plots, Kernel density estimation and visualizing pairwise relat
 Creating Boxplots, Bar plots, using jitters and swarmplot to see full distribution of data.
 Drawing multi-panel categorical plots, using lmplot for linear regression.
 
-The following plots are used to Visualise the Data
+The following plots are used to Visualise the Data:
 Histogram (Distplot), 
 Joint Plot,
 Pair Plot,
