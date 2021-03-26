@@ -6,17 +6,17 @@ Creating Boxplots, Bar plots, using jitters and swarmplot to see full distributi
 Drawing multi-panel categorical plots, using lmplot for linear regression.
 
 The following plots are used to Visualise the Data
-Histogram (Distplot) 
-Joint Plot
-Pair Plot
-Stripplot
-Swarmplot
-Box Plot
-Bar Plot
-Count Plot
-Point Plot
-Cat Plot
-lm Plot
-Scatter Plot
-Violin Plot
+Histogram (Distplot), 
+Joint Plot,
+Pair Plot,
+Stripplot,
+Swarmplot,
+Box Plot,
+Bar Plot,
+Count Plot,
+Point Plot,
+Cat Plot,
+lm Plot,
+Scatter Plot,
+Violin Plot,
 Pie 
